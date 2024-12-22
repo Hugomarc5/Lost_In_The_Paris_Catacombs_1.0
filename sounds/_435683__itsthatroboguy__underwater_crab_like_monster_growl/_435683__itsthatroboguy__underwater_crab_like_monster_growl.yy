@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"_435683__itsthatroboguy__underwater_crab_like_monster_growl",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":21.15338,
+  "name":"_435683__itsthatroboguy__underwater_crab_like_monster_growl",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_435683__itsthatroboguy__underwater_crab_like_monster_growl.ogg",
+  "type":0,
+  "volume":1.0,
+}
